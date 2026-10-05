@@ -34,7 +34,7 @@ class ProductSeeder extends Seeder
                 'price' => 45.50,
                 'stock' => 80,
                 'sku' => 'MOC-URB-003',
-                'image_url' => 'https://picsum.photos/seed/mochila/400',
+                'image_url' => 'https://http2.mlstatic.com/D_NQ_NP_644845-MLU70079438986_062023-O.webp',
                 'is_active' => true,
             ],
             [
@@ -43,7 +43,7 @@ class ProductSeeder extends Seeder
                 'price' => 59.99,
                 'stock' => 40,
                 'sku' => 'AUD-BT-004',
-                'image_url' => 'https://picsum.photos/seed/audifonos/400',
+                'image_url' => 'https://i5.walmartimages.cl/asr/9e15e4a4-2e72-45ec-810e-d3e0e70d225c.5953cba9616ffac9b1010f56ed76fe4b.jpeg',
                 'is_active' => true,
             ],
             [
@@ -52,7 +52,7 @@ class ProductSeeder extends Seeder
                 'price' => 15.00,
                 'stock' => 200,
                 'sku' => 'BOT-TER-005',
-                'image_url' => 'https://picsum.photos/seed/botella/400',
+                'image_url' => 'https://bachaaparty.com/cdn/shop/files/IMG_9708_1ba3be52-f1ed-443f-bfe7-c09b030fa930.jpg?v=1691578082&width=1080',
                 'is_active' => true,
             ],
             [
@@ -61,7 +61,7 @@ class ProductSeeder extends Seeder
                 'price' => 99.00,
                 'stock' => 35,
                 'sku' => 'REL-FIT-006',
-                'image_url' => 'https://picsum.photos/seed/reloj/400',
+                'image_url' => 'https://http2.mlstatic.com/D_NQ_NP_707304-MLU73981461822_012024-O.webp',
                 'is_active' => true,
             ],
             [
@@ -70,7 +70,7 @@ class ProductSeeder extends Seeder
                 'price' => 12.50,
                 'stock' => 250,
                 'sku' => 'GOR-CLA-007',
-                'image_url' => 'https://picsum.photos/seed/gorra/400',
+                'image_url' => 'https://cdn11.bigcommerce.com/s-ecrsdtq42/images/stencil/1280x1280/products/5423/11070/Recycled_66_Hat_TNF_BLACK_TNF_White__89256.1678376471.png?c=1',
                 'is_active' => true,
             ],
             [
@@ -79,7 +79,7 @@ class ProductSeeder extends Seeder
                 'price' => 120.00,
                 'stock' => 20,
                 'sku' => 'MAN-AJU-008',
-                'image_url' => 'https://picsum.photos/seed/mancuernas/400',
+                'image_url' => 'https://resources.sears.com.mx/medios-plazavip/mkt/61e712a5ac7f6_00-portadajpg.jpg',
                 'is_active' => true,
             ],
             [
