@@ -16,7 +16,7 @@ class ProductSeeder extends Seeder
                 'price' => 19.99,
                 'stock' => 150,
                 'sku' => 'CAM-DRY-001',
-                'image_url' => 'https://picsum.photos/seed/camiseta/400',
+                'image_url' => 'https://tse4.mm.bing.net/th/id/OIP.D4a8qV79KcApS-ydqnyZDAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
                 'is_active' => true,
             ],
             [
@@ -25,7 +25,7 @@ class ProductSeeder extends Seeder
                 'price' => 79.90,
                 'stock' => 60,
                 'sku' => 'ZAP-RUN-002',
-                'image_url' => 'https://picsum.photos/seed/zapatillas/400',
+                'image_url' => 'https://tse4.mm.bing.net/th/id/OIP.DHIm8B5YIXwHGKTU3GjPEAHaEJ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
                 'is_active' => true,
             ],
             [
